@@ -1,0 +1,193 @@
+6 6
+7 6
+8 6
+9 6
+10 6
+11 6
+12 6
+13 6
+14 6
+15 6
+16 6
+17 6
+18 6
+19 6
+20 6
+21 6
+22 6
+23 6
+24 6
+25 6
+25 7
+25 8
+25 9
+25 10
+25 11
+25 12
+25 13
+25 14
+25 15
+25 16
+25 17
+25 18
+25 19
+25 20
+25 21
+25 22
+25 23
+25 24
+25 25
+25 26
+25 27
+25 28
+25 29
+25 30
+25 31
+25 32
+25 33
+25 34
+25 35
+24 35
+23 35
+22 35
+21 35
+20 35
+19 35
+18 35
+17 35
+16 35
+15 35
+14 35
+13 35
+12 35
+11 35
+10 35
+9 35
+8 35
+7 35
+6 35
+6 34
+6 33
+6 32
+6 31
+6 30
+6 29
+6 28
+6 27
+6 26
+6 25
+6 24
+6 23
+6 22
+6 21
+6 20
+6 19
+6 18
+6 17
+6 16
+6 15
+6 14
+6 13
+6 12
+6 11
+6 10
+6 9
+6 8
+6 7
+6 7
+Q:0  P:5  R:10 index:5 x:11  y:6  curvature:0
+Q:1  P:6  R:11 index:6 x:12  y:6  curvature:0
+Q:2  P:7  R:12 index:7 x:13  y:6  curvature:0
+Q:3  P:8  R:13 index:8 x:14  y:6  curvature:0
+Q:4  P:9  R:14 index:9 x:15  y:6  curvature:0
+Q:5  P:10  R:15 index:10 x:16  y:6  curvature:0
+Q:6  P:11  R:16 index:11 x:17  y:6  curvature:0
+Q:7  P:12  R:17 index:12 x:18  y:6  curvature:0
+Q:8  P:13  R:18 index:13 x:19  y:6  curvature:0
+Q:9  P:14  R:19 index:14 x:20  y:6  curvature:0
+Q:10  P:15  R:20 index:15 x:21  y:6  curvature:0
+Q:11  P:16  R:21 index:16 x:22  y:6  curvature:0
+Q:12  P:17  R:22 index:17 x:23  y:6  curvature:1
+Q:13  P:18  R:23 index:18 x:24  y:6  curvature:4
+Q:14  P:19  R:24 index:19 x:25  y:6  curvature:5
+Q:15  P:20  R:25 index:20 x:25  y:7  curvature:5
+Q:16  P:21  R:26 index:21 x:25  y:8  curvature:5
+Q:17  P:22  R:27 index:22 x:25  y:9  curvature:4
+Q:18  P:23  R:28 index:23 x:25  y:10  curvature:1
+Q:19  P:24  R:29 index:24 x:25  y:11  curvature:0
+Q:20  P:25  R:30 index:25 x:25  y:12  curvature:0
+Q:21  P:26  R:31 index:26 x:25  y:13  curvature:0
+Q:22  P:27  R:32 index:27 x:25  y:14  curvature:0
+Q:23  P:28  R:33 index:28 x:25  y:15  curvature:0
+Q:24  P:29  R:34 index:29 x:25  y:16  curvature:0
+Q:25  P:30  R:35 index:30 x:25  y:17  curvature:0
+Q:26  P:31  R:36 index:31 x:25  y:18  curvature:0
+Q:27  P:32  R:37 index:32 x:25  y:19  curvature:0
+Q:28  P:33  R:38 index:33 x:25  y:20  curvature:0
+Q:29  P:34  R:39 index:34 x:25  y:21  curvature:0
+Q:30  P:35  R:40 index:35 x:25  y:22  curvature:0
+Q:31  P:36  R:41 index:36 x:25  y:23  curvature:0
+Q:32  P:37  R:42 index:37 x:25  y:24  curvature:0
+Q:33  P:38  R:43 index:38 x:25  y:25  curvature:0
+Q:34  P:39  R:44 index:39 x:25  y:26  curvature:0
+Q:35  P:40  R:45 index:40 x:25  y:27  curvature:0
+Q:36  P:41  R:46 index:41 x:25  y:28  curvature:0
+Q:37  P:42  R:47 index:42 x:25  y:29  curvature:0
+Q:38  P:43  R:48 index:43 x:25  y:30  curvature:0
+Q:39  P:44  R:49 index:44 x:25  y:31  curvature:1
+Q:40  P:45  R:50 index:45 x:25  y:32  curvature:4
+Q:41  P:46  R:51 index:46 x:25  y:33  curvature:5
+Q:42  P:47  R:52 index:47 x:25  y:34  curvature:5
+Q:43  P:48  R:53 index:48 x:25  y:35  curvature:5
+Q:44  P:49  R:54 index:49 x:24  y:35  curvature:4
+Q:45  P:50  R:55 index:50 x:23  y:35  curvature:1
+Q:46  P:51  R:56 index:51 x:22  y:35  curvature:0
+Q:47  P:52  R:57 index:52 x:21  y:35  curvature:0
+Q:48  P:53  R:58 index:53 x:20  y:35  curvature:0
+Q:49  P:54  R:59 index:54 x:19  y:35  curvature:0
+Q:50  P:55  R:60 index:55 x:18  y:35  curvature:0
+Q:51  P:56  R:61 index:56 x:17  y:35  curvature:0
+Q:52  P:57  R:62 index:57 x:16  y:35  curvature:0
+Q:53  P:58  R:63 index:58 x:15  y:35  curvature:0
+Q:54  P:59  R:64 index:59 x:14  y:35  curvature:0
+Q:55  P:60  R:65 index:60 x:13  y:35  curvature:0
+Q:56  P:61  R:66 index:61 x:12  y:35  curvature:0
+Q:57  P:62  R:67 index:62 x:11  y:35  curvature:0
+Q:58  P:63  R:68 index:63 x:10  y:35  curvature:0
+Q:59  P:64  R:69 index:64 x:9  y:35  curvature:0
+Q:60  P:65  R:70 index:65 x:8  y:35  curvature:1
+Q:61  P:66  R:71 index:66 x:7  y:35  curvature:4
+Q:62  P:67  R:72 index:67 x:6  y:35  curvature:5
+Q:63  P:68  R:73 index:68 x:6  y:34  curvature:5
+Q:64  P:69  R:74 index:69 x:6  y:33  curvature:5
+Q:65  P:70  R:75 index:70 x:6  y:32  curvature:4
+Q:66  P:71  R:76 index:71 x:6  y:31  curvature:1
+Q:67  P:72  R:77 index:72 x:6  y:30  curvature:0
+Q:68  P:73  R:78 index:73 x:6  y:29  curvature:0
+Q:69  P:74  R:79 index:74 x:6  y:28  curvature:0
+Q:70  P:75  R:80 index:75 x:6  y:27  curvature:0
+Q:71  P:76  R:81 index:76 x:6  y:26  curvature:0
+Q:72  P:77  R:82 index:77 x:6  y:25  curvature:0
+Q:73  P:78  R:83 index:78 x:6  y:24  curvature:0
+Q:74  P:79  R:84 index:79 x:6  y:23  curvature:0
+Q:75  P:80  R:85 index:80 x:6  y:22  curvature:0
+Q:76  P:81  R:86 index:81 x:6  y:21  curvature:0
+Q:77  P:82  R:87 index:82 x:6  y:20  curvature:0
+Q:78  P:83  R:88 index:83 x:6  y:19  curvature:0
+Q:79  P:84  R:89 index:84 x:6  y:18  curvature:0
+Q:80  P:85  R:90 index:85 x:6  y:17  curvature:0
+Q:81  P:86  R:91 index:86 x:6  y:16  curvature:0
+Q:82  P:87  R:92 index:87 x:6  y:15  curvature:0
+Q:83  P:88  R:93 index:88 x:6  y:14  curvature:0
+Q:84  P:89  R:94 index:89 x:6  y:13  curvature:0
+Q:85  P:90  R:95 index:90 x:6  y:12  curvature:0
+Q:86  P:91  R:96 index:91 x:6  y:11  curvature:1
+Q:87  P:92  R:0 index:92 x:6  y:10  curvature:1
+Q:88  P:93  R:1 index:93 x:6  y:9  curvature:2
+Q:89  P:94  R:2 index:94 x:6  y:8  curvature:4
+Q:90  P:95  R:3 index:95 x:6  y:7  curvature:5
+Q:91  P:96  R:4 index:96 x:6  y:7  curvature:4
+Q:92  P:0  R:5 index:0 x:6  y:6  curvature:4
+Q:93  P:1  R:6 index:1 x:7  y:6  curvature:3
+Q:94  P:2  R:7 index:2 x:8  y:6  curvature:1
+Q:95  P:3  R:8 index:3 x:9  y:6  curvature:0
